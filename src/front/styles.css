@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 2rem;
+}
+.character {
+  display: flex;
+  flex-direction: column;
+  /* position: relative; */
+  justify-content: center;
+  align-items: center;
+  box-shadow: 3px 3px 10px rgb(156, 155, 155);
+  border-radius: 10px;
+  border: 2px solid rgb(138, 134, 134);
+  gap: 0.5rem;
+  /* background-image: url('https://res.cloudinary.com/df7b0dj9r/image/upload/v1715964050/starwars/DeathStar-SWE_lw24vu.webp'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.4),
+      rgba(255, 255, 255, 0.4)
+    ),
+    url('https://res.cloudinary.com/df7b0dj9r/image/upload/v1715964050/starwars/DeathStar-SWE_lw24vu.webp');
+}
+.name {
+  height: 2rem;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255, 0.421);
+  transition: all 0.5s;
+  /* position: absolute; */
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.img {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  border: 1px solid rgb(255, 255, 255, 0.421);
+  margin-top: 0.5rem;
+}
+.paragraph {
+  width: 95%;
+  color: rgb(17, 17, 17);
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-height: 6rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  text-align: justify;
+  margin-bottom: 0.5rem;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltiptext {
+  visibility: hidden;
+  width: 100%;
+  background-color: rgb(67, 67, 67);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-size: 1.5rem;
+  /* Position the tooltip */
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+.pagination {
+  width: 6rem;
+  height: 2.5rem;
+  /* padding-bottom: 3rem; */
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  align-items: center;
+  border: 1px solid bisque;
+  border-radius: 15px;
+  align-self: center;
+}
+
+.ShowMore {
+  border-radius: 10px;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+  background-color: bisque;
+}
+.ShowMore:hover {
+  background-color: gray;
+}
+.hide {
+  display: none;
+}

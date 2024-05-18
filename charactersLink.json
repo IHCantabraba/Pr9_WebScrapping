@@ -1,0 +1,5795 @@
+[
+    {
+        "i": "https://www.starwars.com/databank/hyper-rod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quick-draw-quasar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/steel-claw-kane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/the-trickster-flash-raktor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/2-1b-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/2br-ntb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/4-lom"
+    },
+    {
+        "i": "https://www.starwars.com/databank/4d-m1n"
+    },
+    {
+        "i": "https://www.starwars.com/databank/5-l"
+    },
+    {
+        "i": "https://www.starwars.com/databank/501st-legion"
+    },
+    {
+        "i": "https://www.starwars.com/databank/773-firepuncher-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/79-s"
+    },
+    {
+        "i": "https://www.starwars.com/databank/8d8"
+    },
+    {
+        "i": "https://www.starwars.com/databank/a-wing-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/a-wing-trainer-rz-1t"
+    },
+    {
+        "i": "https://www.starwars.com/databank/a280-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/a300-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aa-9-coruscant-freighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aat-battle-tank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aayla-secura"
+    },
+    {
+        "i": "https://www.starwars.com/databank/abafar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/abednedo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/acklay"
+    },
+    {
+        "i": "https://www.starwars.com/databank/adi-gallia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-ackbar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-coburn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-garrick-versio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-griss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-karius"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-kassius-konstantine"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-kilian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-motti"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-ozzel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-piett"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-raddus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-statura"
+    },
+    {
+        "i": "https://www.starwars.com/databank/admiral-trench"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ady-sun-zee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aemon-gremm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aeos-prime"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aeosian-queen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aeosians"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aftab-ackbar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/agamar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/agen-kolar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/agent-del-meeko"
+    },
+    {
+        "i": "https://www.starwars.com/databank/agent-gideon-hask"
+    },
+    {
+        "i": "https://www.starwars.com/databank/agent-tierny"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ahch-to"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ahch-to-jedi-temple"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ahch-to-mirror-cave"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ahsoka-tano"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ahsokas-lightsabers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ahsoka-s-t-6-jedi-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ailish"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aiwha"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ajan-kloss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ajan-kloss-resistance-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aki-aki"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alazmec"
+    },
+    {
+        "i": "https://www.starwars.com/databank/albrekh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alcida-auka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aldera-spaceport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alderaan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alderaan-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alderaan-royal-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alderaanian-royal-guards"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aldhani"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aleen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aleena"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alexsandr-kallus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alliance-high-command"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alora"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alrich-wren"
+    },
+    {
+        "i": "https://www.starwars.com/databank/alton-kastle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amadeo-azzazzo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amani"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amban-sniper-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amda-wabo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amilyn-holdo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anacondan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anakin-skywalker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anakin-skywalkers-podracer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anchorhead"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anchorhead-general-store"
+    },
+    {
+        "i": "https://www.starwars.com/databank/angel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anooba"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anti-air-turbolaser-tower"
+    },
+    {
+        "i": "https://www.starwars.com/databank/antique-n-1-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ap-5"
+    },
+    {
+        "i": "https://www.starwars.com/databank/appo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ap-lek"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ap-lek-s-vibro-ax"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aqua-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arashell-sar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arc-trooper-fives"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arc-170-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arcana"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arcana-star-map"
+    },
+    {
+        "i": "https://www.starwars.com/databank/archeon-nebula"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ardo-barodai"
+    },
+    {
+        "i": "https://www.starwars.com/databank/argus-six-eyes-panox"
+    },
+    {
+        "i": "https://www.starwars.com/databank/amorer-s-equipment"
+    },
+    {
+        "i": "https://www.starwars.com/databank/armorer-s-workshop"
+    },
+    {
+        "i": "https://www.starwars.com/databank/artillery-stormtrooper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arvala-7"
+    },
+    {
+        "i": "https://www.starwars.com/databank/arvel-skeen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/asajj-ventress"
+    },
+    {
+        "i": "https://www.starwars.com/databank/asajj-ventress-lightsabers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ashas-ree"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ashas-ree-temple-of-the-force"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ask-aak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/asp-general-purpose-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/asteroid-belt-gas-refinery"
+    },
+    {
+        "i": "https://www.starwars.com/databank/asteroid-field"
+    },
+    {
+        "i": "https://www.starwars.com/databank/astromech-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-ac-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-act-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-at-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-at-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-dp-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-dt-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-hauler"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-m6-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-rt-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-st-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/at-te-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/atai-molec"
+    },
+    {
+        "i": "https://www.starwars.com/databank/athgar-heece"
+    },
+    {
+        "i": "https://www.starwars.com/databank/atollon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aunt-z"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aunt-z-tavern"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aurodia-ventafoli"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aurra-sing"
+    },
+    {
+        "i": "https://www.starwars.com/databank/autovalet-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/av-7-anti-vehicle-artillery-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/avar-kriss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/avon-starros"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ax-tagrin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/aynaboni"
+    },
+    {
+        "i": "https://www.starwars.com/databank/azi-3"
+    },
+    {
+        "i": "https://www.starwars.com/databank/azlin-rell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/azmorigan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b-u4d-buford"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b-wing-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b-wing-prototype-blade-wing"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b1"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b1-series-rocket-battle-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b2-rp-battle-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b2emo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/babu-frik"
+    },
+    {
+        "i": "https://www.starwars.com/databank/babu-frik-s-workshop"
+    },
+    {
+        "i": "https://www.starwars.com/databank/babwa-venomor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bacta-suit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bacta-tank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bahryn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bahryn-meteorite"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bail-organa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bala-tik"
+    },
+    {
+        "i": "https://www.starwars.com/databank/balaans"
+    },
+    {
+        "i": "https://www.starwars.com/databank/balmorra"
+    },
+    {
+        "i": "https://www.starwars.com/databank/balnab"
+    },
+    {
+        "i": "https://www.starwars.com/databank/balosar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bandits-of-peridea"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bantha"
+    },
+    {
+        "i": "https://www.starwars.com/databank/barada"
+    },
+    {
+        "i": "https://www.starwars.com/databank/baradium-bomb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/barc-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bardotta"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bargwill-tomder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/baron-boolan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/baron-attsmun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/barren-moon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/barriss-offee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/barton-iv"
+    },
+    {
+        "i": "https://www.starwars.com/databank/base-one"
+    },
+    {
+        "i": "https://www.starwars.com/databank/batcher"
+    },
+    {
+        "i": "https://www.starwars.com/databank/battering-ram-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/battle-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/battle-droid-513"
+    },
+    {
+        "i": "https://www.starwars.com/databank/batuu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/baylan-skoll"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bayrn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/baze-malbus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/baze-malbus-mwc-35c-repeating-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bazine-netal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bb-unit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bb-8"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bb-9e"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bd-1"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bd-3000-luxury-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bear-clan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beaumont-kin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beezer-fortuna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beggar-s-canyon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beilert-valance"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bell-zettifar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/belugan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ben-kenobi-s-cave"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ben-kenobi-s-secret-lightsaber-box"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ben-quadinaros"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bendu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/benni-baro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/benthic-two-tubes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beru-lars"
+    },
+    {
+        "i": "https://www.starwars.com/databank/besalisk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beskar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/beskar-spear"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bespin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bestoon-legacy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bg-81"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bib-fortuna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bibo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/big-al"
+    },
+    {
+        "i": "https://www.starwars.com/databank/biggs-darklighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/birnok"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bistan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bitey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bith"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bivall"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bix-caleen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/black-ace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/black-ice-vulture"
+    },
+    {
+        "i": "https://www.starwars.com/databank/black-melon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/black-one"
+    },
+    {
+        "i": "https://www.starwars.com/databank/black-spire-outpost"
+    },
+    {
+        "i": "https://www.starwars.com/databank/black-sun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blade-of-ochi-of-bestoon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blastech-a280-cfe"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blixus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blue-ace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blue-shadow-virus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blue-squadron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/blurrg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bni-393"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bo-keevil"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bo-katan-kryze"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boba-fett"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boba-fett-s-palace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bobbajo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bode-akuna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bodhi-rook"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boga"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bogano"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bokken-sabers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bolla-ropal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bollie-prindel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bolo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bolza-grool"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bonbraks"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bonzami"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boolio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boonta-eve-classic-podracer-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bora-vio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bosco-the-mad-bomber-brix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boshek"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boss-lyonie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boss-nass"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bossk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bowcaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bracca"
+    },
+    {
+        "i": "https://www.starwars.com/databank/brain-worm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/brasso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/brezak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bright-tree-village"
+    },
+    {
+        "i": "https://www.starwars.com/databank/broken-horn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/brom-titus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/brother-viscus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bucket-r1-j5"
+    },
+    {
+        "i": "https://www.starwars.com/databank/buggles"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bulduga"
+    },
+    {
+        "i": "https://www.starwars.com/databank/bultar-swan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/burg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/burryaga"
+    },
+    {
+        "i": "https://www.starwars.com/databank/buzz-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/byph"
+    },
+    {
+        "i": "https://www.starwars.com/databank/b-omarr-monk-spider"
+    },
+    {
+        "i": "https://www.starwars.com/databank/c-ai-threnalli"
+    },
+    {
+        "i": "https://www.starwars.com/databank/c-21-highsinger"
+    },
+    {
+        "i": "https://www.starwars.com/databank/c-3po"
+    },
+    {
+        "i": "https://www.starwars.com/databank/c1-d1"
+    },
+    {
+        "i": "https://www.starwars.com/databank/c2-b5"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cad-bane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cade"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cal-kestis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/caluan-ematt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/camie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/camtono-case"
+    },
+    {
+        "i": "https://www.starwars.com/databank/canto-bight"
+    },
+    {
+        "i": "https://www.starwars.com/databank/canto-bight-jail"
+    },
+    {
+        "i": "https://www.starwars.com/databank/canto-bight-police"
+    },
+    {
+        "i": "https://www.starwars.com/databank/canto-bight-police-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/canto-bight-speeders"
+    },
+    {
+        "i": "https://www.starwars.com/databank/canto-casino"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cantonica"
+    },
+    {
+        "i": "https://www.starwars.com/databank/capacitor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-antilles"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-argyus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-bragg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-brunson"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-canady"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-doza"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-doza-s-office"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-elk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-enoch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-gawat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-girard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-hark"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-hayle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-kosh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-lang"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-mann"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-merumeru"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-needa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-panaka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-peavey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-phasma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-phasma-s-baton"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-phasma-s-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-porter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-typho"
+    },
+    {
+        "i": "https://www.starwars.com/databank/captain-wilco"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cara-dune"
+    },
+    {
+        "i": "https://www.starwars.com/databank/caraad"
+    },
+    {
+        "i": "https://www.starwars.com/databank/carbon-freezing"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cardo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cardo-s-arm-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/caretakers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/carlac"
+    },
+    {
+        "i": "https://www.starwars.com/databank/carson-teva"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cassian-andor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cassie-cryar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/castas"
+    },
+    {
+        "i": "https://www.starwars.com/databank/castilon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/catacombs-of-cadera"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cato-neimoidia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cato-parasitti"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cave-of-evil"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cb-23"
+    },
+    {
+        "i": "https://www.starwars.com/databank/celsor-3"
+    },
+    {
+        "i": "https://www.starwars.com/databank/central-detention-center"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cere"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cerean"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cg-67"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chadra-fan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chagrian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chain-code"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chairman-papanoida"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cham-syndulla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chancellor-lina-soh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chancellor-villecham"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chandrila-mistress"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chata-hyoki"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chava"
+    },
+    {
+        "i": "https://www.starwars.com/databank/che-amanwe-papanoida"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chelidae"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chewbacca"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chi-cho"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chi-eekway-papanoida"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chief-chirpa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chief-petty-officer-unamo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chieftain-pieter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chirrut-imwe"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chirrut-mwe-s-lightbow"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chirrut-mwe-s-staff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/chopper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/christophsis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cid-s-parlor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cikatro-vizago"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cin-drallig"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cinta-kaz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clan-kryze"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clan-saxon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clan-wren"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cleat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clegg-holdfast"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clem-andor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cliegg-lars"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clink"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-99"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-captain-grey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-captain-howzer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-captain-rex"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-bacara"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-bly"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-cody"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-doom"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-fox"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-gree"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-jet"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-mayday"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-neyo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-ponds"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-scorch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-stone"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-thorn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-commander-wolffe"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-force-99-bad-batch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-pilot-odd-ball"
+    },
+    {
+        "i": "https://www.starwars.com/databank/warthog"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-trooper-armor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boil"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dogma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-trooper-doll"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hardcase"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jesse"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/tup"
+    },
+    {
+        "i": "https://www.starwars.com/databank/waxer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-veteran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-x-trooper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clone-z-95-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cloud-car"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cloud-city"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cloud-riders"
+    },
+    {
+        "i": "https://www.starwars.com/databank/clu-lesser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coaxium"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cobalt-squadron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cobb-vanth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cobb-vanth-s-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coleman-trebor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/colo-claw-fish"
+    },
+    {
+        "i": "https://www.starwars.com/databank/colonel-bandwin-cor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/colonel-datoo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/colonel-meebur-gascon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/colossus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/colossus-marketplace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/combat-assault-tank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/comlink"
+    },
+    {
+        "i": "https://www.starwars.com/databank/commandant-cumberlayne-aresko"
+    },
+    {
+        "i": "https://www.starwars.com/databank/commander-d-acy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/commander-iden-versio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/commander-jun-sato"
+    },
+    {
+        "i": "https://www.starwars.com/databank/commander-pyre"
+    },
+    {
+        "i": "https://www.starwars.com/databank/commando-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/communications-transmitter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/company-77"
+    },
+    {
+        "i": "https://www.starwars.com/databank/concord-dawn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/concordia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/confederacy-of-independent-systems"
+    },
+    {
+        "i": "https://www.starwars.com/databank/constable-zuvio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/construction-spheres"
+    },
+    {
+        "i": "https://www.starwars.com/databank/controller-lt-319"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-conveyex-transport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/convor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/corellia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/corellian-hounds"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coronet"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coronet-spaceport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/corporate-alliance"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coruscant"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coruscant-air-taxi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coruscant-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coruscant-senate-building"
+    },
+    {
+        "i": "https://www.starwars.com/databank/coruscant-underworld-police"
+    },
+    {
+        "i": "https://www.starwars.com/databank/corvax-fen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/corvus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/corvus-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cosian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/count-dooku"
+    },
+    {
+        "i": "https://www.starwars.com/databank/count-dookus-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/count-dookus-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/courier-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crait"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crait-rebel-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crimson-dawn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crimson-squadron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crokind-shand"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crosshair"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crucible"
+    },
+    {
+        "i": "https://www.starwars.com/databank/crusher-roodown"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cs-515"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cubikahd"
+    },
+    {
+        "i": "https://www.starwars.com/databank/customized-grav-scoot"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cut-lawquane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cx-dagger-vessel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cx-observation-lab"
+    },
+    {
+        "i": "https://www.starwars.com/databank/cyber-center"
+    },
+    {
+        "i": "https://www.starwars.com/databank/d-qar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/d-93-incinerator-flamethrower"
+    },
+    {
+        "i": "https://www.starwars.com/databank/d-o"
+    },
+    {
+        "i": "https://www.starwars.com/databank/d-squad"
+    },
+    {
+        "i": "https://www.starwars.com/databank/d-wing-security-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dactillion"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dagobah"
+    },
+    {
+        "i": "https://www.starwars.com/databank/daiyu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dak-ralter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dalgo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dalkor-dagger"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dandoran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dantooine"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darius-g-class-freighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darja"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darksaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/daro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darth-bane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darth-mauls-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darth-vader"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darth-vaders-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darth-vader-s-tie-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darts-dnar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dassal-system"
+    },
+    {
+        "i": "https://www.starwars.com/databank/datapad"
+    },
+    {
+        "i": "https://www.starwars.com/databank/datarod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dathomir"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dathomirian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/daughter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/daughters-of-ferrix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/daultay-dofine"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dava-cassamam"
+    },
+    {
+        "i": "https://www.starwars.com/databank/davo-sculdun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dc-17-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dd-bd"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ddt-tank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star-gunners"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star-ii"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star-plans"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star-scientists"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star-superlaser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-star-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-sticks"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-trooper-blastech-e-11d-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/death-watch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dedra-meero"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dejarik"
+    },
+    {
+        "i": "https://www.starwars.com/databank/deke"
+    },
+    {
+        "i": "https://www.starwars.com/databank/delta-7-jedi-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dengar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/depa-billaba"
+    },
+    {
+        "i": "https://www.starwars.com/databank/derek-hobbie-klivian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/derla-pidys"
+    },
+    {
+        "i": "https://www.starwars.com/databank/derrown"
+    },
+    {
+        "i": "https://www.starwars.com/databank/desert-skiff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/desix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/devaron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/devaronian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dewback"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dewi-pamular"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dex-tiree"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dexs-diner"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dexter-jettster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dg-29-heavy-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dhani"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dianoga"
+    },
+    {
+        "i": "https://www.starwars.com/databank/the-mandalorian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/director-orson-krennic"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dismantler-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dj"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dj-r-3x"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dl-18-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dl-44-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dlt-19-heavy-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-aphra"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-cornelius-evazan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-gubacher"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-kalonia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-nuvo-vindi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-quadpaw"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doctor-scalder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dok-ondar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dok-ondar-s-den-of-antiquities"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dokk-strassi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dokk-strassi-s-guards"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dokma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dorme"
+    },
+    {
+        "i": "https://www.starwars.com/databank/doza-tower"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dr-emerie-karr"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dr-gorst"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dr-pershing"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dr-rhasiv"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dr-royce-hemlock"
+    },
+    {
+        "i": "https://www.starwars.com/databank/drahgor-iii"
+    },
+    {
+        "i": "https://www.starwars.com/databank/drell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/droid-decommissioning-facility"
+    },
+    {
+        "i": "https://www.starwars.com/databank/droid-gunship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/droid-popper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/droid-remote-control"
+    },
+    {
+        "i": "https://www.starwars.com/databank/droideka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/droopy-mccool"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dryax"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dryden-vos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dt-f16"
+    },
+    {
+        "i": "https://www.starwars.com/databank/duchess-satine-kryze"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dug"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dume"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dune-sea"
+    },
+    {
+        "i": "https://www.starwars.com/databank/duros"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dwarf-spider-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/dyro-felldor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/e-10-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/e-11-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/e-22-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/e-xd-infiltrator-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eadu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ec-17-hold-out-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/echo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/echo-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/edrio-two-tubes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eedy-karn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eesh-fahm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eeth-koth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eg-86"
+    },
+    {
+        "i": "https://www.starwars.com/databank/egl-21-amps-power-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eighth-brother-inquisitor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eila"
+    },
+    {
+        "i": "https://www.starwars.com/databank/elan-sleazebaggano"
+    },
+    {
+        "i": "https://www.starwars.com/databank/electro-bisento"
+    },
+    {
+        "i": "https://www.starwars.com/databank/electro-chain-whip"
+    },
+    {
+        "i": "https://www.starwars.com/databank/electro-shock-prod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/electro-whip"
+    },
+    {
+        "i": "https://www.starwars.com/databank/electroripper-staff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/electrostaff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eleni-syndulla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/elite-praetorian-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/elite-squad"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ello-asty"
+    },
+    {
+        "i": "https://www.starwars.com/databank/embo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/emigration-officers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/emperor-palpatine-darth-sidious"
+    },
+    {
+        "i": "https://www.starwars.com/databank/emperor-s-throne-room"
+    },
+    {
+        "i": "https://www.starwars.com/databank/endente"
+    },
+    {
+        "i": "https://www.starwars.com/databank/endor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/energy-ball-booma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/energy-bow"
+    },
+    {
+        "i": "https://www.starwars.com/databank/enfys-nest"
+    },
+    {
+        "i": "https://www.starwars.com/databank/enfys-nests-swoop-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eopie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ephraim-bridger"
+    },
+    {
+        "i": "https://www.starwars.com/databank/er-kit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/erebus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eriadu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/erskin-semaj"
+    },
+    {
+        "i": "https://www.starwars.com/databank/erso-homestead"
+    },
+    {
+        "i": "https://www.starwars.com/databank/escape-pod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eta-2-jedi-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/eta-class-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ev-9d9"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ev-a4-d"
+    },
+    {
+        "i": "https://www.starwars.com/databank/eva-sp-54"
+    },
+    {
+        "i": "https://www.starwars.com/databank/even-piell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ewok"
+    },
+    {
+        "i": "https://www.starwars.com/databank/executioner-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/executor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/exegol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ezra-bridger"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ezra-s-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ezras-speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fa-4-pilot-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/falleen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/falumpaset"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fambaa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fang-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/faos-station"
+    },
+    {
+        "i": "https://www.starwars.com/databank/far-galaxy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/father"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fathier"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fathier-jockeys"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fauja"
+    },
+    {
+        "i": "https://www.starwars.com/databank/felucia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fenn-rau"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fennec-shand"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ferrix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ferrix-funerary-stone"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ferry-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/festival-of-the-ancestors"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fife"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fifth-brother-inquisitor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/figrin-d-an-and-the-modal-nodes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/figrin-d-an"
+    },
+    {
+        "i": "https://www.starwars.com/databank/finalizer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/finn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fire-breather"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fireball"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-light"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-officer-jensen-corbyt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-at-at-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-at-hh-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-at-st-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-data-medallion"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-flametroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-interrogator-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-jet-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-light-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-medical-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-mining-operation"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-probe-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-raiders"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-riot-control-stormtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-scuba-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-sentry-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-snowtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-special-forces-tie-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-star-destroyer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-stormtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-supreme-council"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-tie-echelon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-tie-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-tie-fighter-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-transporter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-treadspeeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/first-order-treadspeeder-drivers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fixer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flame-cannons"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flanx"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flash-charge"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flash-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flight-data-recorder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flight-pods"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flight-simulator-squadron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/flob"
+    },
+    {
+        "i": "https://www.starwars.com/databank/florrum"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fn-2199"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fode-and-beed"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fondor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/force-choke"
+    },
+    {
+        "i": "https://www.starwars.com/databank/force-lightning"
+    },
+    {
+        "i": "https://www.starwars.com/databank/force-planet"
+    },
+    {
+        "i": "https://www.starwars.com/databank/force-priestesses"
+    },
+    {
+        "i": "https://www.starwars.com/databank/force-push"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fork-lift"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fort-anaxes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fort-ypso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fortress-inquisitorius"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fourth-sister-inquisitor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/freck"
+    },
+    {
+        "i": "https://www.starwars.com/databank/free-ryloth-movement"
+    },
+    {
+        "i": "https://www.starwars.com/databank/freeco-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/freedi-pamular"
+    },
+    {
+        "i": "https://www.starwars.com/databank/freetown-mos-pelgo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/freya-fenris"
+    },
+    {
+        "i": "https://www.starwars.com/databank/frezno"
+    },
+    {
+        "i": "https://www.starwars.com/databank/frisk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fx-6-medical-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/fyrnock"
+    },
+    {
+        "i": "https://www.starwars.com/databank/g-ln"
+    },
+    {
+        "i": "https://www.starwars.com/databank/g1-7ch-glitch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/g2-1b7"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ga-97"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gaderffii-stick"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galactic-empire"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galactic-republic"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galactic-senate"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galaxies-opera-house"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galaxys-glory"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galen-erso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gall-trayvis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/galleon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gamorrean-fighters"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gamorrean-guards"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gamorreans"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ganodi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gar-saxon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/zeb-orrelios"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gardulla-the-hutt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garindan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garnac"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garsa-fwip"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garsa-s-sanctuary"
+    },
+    {
+        "i": "https://www.starwars.com/databank/garven-dreis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gasgano"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gauntlet-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-draven"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-dustil-forell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-engell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-grievous"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-grievous-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-grievous-tsmeu-6-wheel-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-hux"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-kalani"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-madine"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-merrick"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-parnadee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-pitt-onoran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-pong-krell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-pryde"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-quinn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-rieekan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-tagge"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-tandin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-tarpals"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-veers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/general-viess"
+    },
+    {
+        "i": "https://www.starwars.com/databank/geonosian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/geonosian-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/geonosian-sonic-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/geonosis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/geonosis-droid-factory"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gerrera-s-partisan-fighters"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gh-7-analysis-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gha-nachkt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ghirra-starros"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gian-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/givin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/glaucus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/glavis-ringworld"
+    },
+    {
+        "i": "https://www.starwars.com/databank/glem"
+    },
+    {
+        "i": "https://www.starwars.com/databank/glie-44-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/goazon-badlands"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gobi-glie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gobi-glie-s-starship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gonk-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gonky"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gooti-terez"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gor-koresh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gorg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gorga-the-hutt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gorgara-the-chirodactyl"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gork"
+    },
+    {
+        "i": "https://www.starwars.com/databank/goss-toowers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gotal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/governor-grotton"
+    },
+    {
+        "i": "https://www.starwars.com/databank/governor-pryce"
+    },
+    {
+        "i": "https://www.starwars.com/databank/governor-roshti"
+    },
+    {
+        "i": "https://www.starwars.com/databank/governor-torul-blom"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gozzo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gr-75-medium-transport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grace-sienar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grand-admiral-thrawn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grand-moff-tarkin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grapple-gun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grapple-line"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gravity-lock"
+    },
+    {
+        "i": "https://www.starwars.com/databank/great-mothers-fortress"
+    },
+    {
+        "i": "https://www.starwars.com/databank/greeata"
+    },
+    {
+        "i": "https://www.starwars.com/databank/greedo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/greef-karga"
+    },
+    {
+        "i": "https://www.starwars.com/databank/green-ace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/greer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/greez"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gregor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grevel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/griff-halloran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grini-millegi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gription-boots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grogu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grozz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/grummgar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gryzard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gs-8"
+    },
+    {
+        "i": "https://www.starwars.com/databank/guavian-death-gang"
+    },
+    {
+        "i": "https://www.starwars.com/databank/guavian-death-gang-ships"
+    },
+    {
+        "i": "https://www.starwars.com/databank/guild-slave-master-proach"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gundark"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gungan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gungan-bongo-submarine"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gungan-grand-army"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gungan-personal-energy-shield"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gungi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gunny"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gwarm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gwellis-bagnoro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gx-8-condenser-unit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/gx1-short-hauler"
+    },
+    {
+        "i": "https://www.starwars.com/databank/h-type-nubian-yacht"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hailfire-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/haja-estree"
+    },
+    {
+        "i": "https://www.starwars.com/databank/halle-burtoni"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hallion-nark"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ham"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hamato-xiono"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hammerhead-corvette"
+    },
+    {
+        "i": "https://www.starwars.com/databank/han-solo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/han-solo-s-dice"
+    },
+    {
+        "i": "https://www.starwars.com/databank/han-solos-landspeeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/happabore"
+    },
+    {
+        "i": "https://www.starwars.com/databank/havina-vonreg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/havoc-outpost"
+    },
+    {
+        "i": "https://www.starwars.com/databank/haxxon-the-war-gnome-trajanix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hay-zu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hemlock-s-office"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hera-syndulla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hermi-odle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hermione-bagwa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hh-87-starhopper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/history-of-the-galaxy"
+    },
+    {
+        "i": "https://www.starwars.com/hk-87-assassin-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/holographic-disguise-matrix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/holonet-news"
+    },
+    {
+        "i": "https://www.starwars.com/databank/holopuck"
+    },
+    {
+        "i": "https://www.starwars.com/databank/holy-city-of-jedha"
+    },
+    {
+        "i": "https://www.starwars.com/databank/home-one"
+    },
+    {
+        "i": "https://www.starwars.com/databank/homing-beacon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/homing-spider-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hondo-ohnaka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/horizon-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hosnian-prime"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hoth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hounds-tooth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hovering-pram"
+    },
+    {
+        "i": "https://www.starwars.com/databank/howler"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hugh-sion"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hunter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hurid-327"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hutt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hutt-clan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hydroid-medusa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hydroskiff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hyena-bomber-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hype-fazon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/hyperdrive"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ibaar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ice-spiders"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ice-wyrm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/id9-seeker-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/iego"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ig-11"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ig-88"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ig-rm-thug-droids"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ilco-munica"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ilum"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ima-gun-di"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imara-vex"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-academy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-assault-carrier"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-base-on-daro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-cargo-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-clone-shock-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-combat-assault-tank-commander"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-combat-assault-tank-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-combat-drivers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-construction-module"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-credits"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-death-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-defense-recruitment-bill"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-doonium-refinery"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-garrison-aldhani"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-gozanti-class-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-ground-crew"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-interdictor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-juggernaut-driver"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-light-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-listener-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-medics"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-minefield"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-mobile-surgical-unit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-n-s9-starpath-unit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-orbital-space-station"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-patrol-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-planetary-occupation-facility"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-police-droids"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-probe-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-royal-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-security-bureau"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-security-trooper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-sentinel-class-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-sentry-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-star-destroyer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-supercommandos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-troop-transport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-xx-23-s-thread-tracer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/incinerator-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/indara"
+    },
+    {
+        "i": "https://www.starwars.com/databank/inferno-squad"
+    },
+    {
+        "i": "https://www.starwars.com/databank/infrablue-zedbeddy-coggins"
+    },
+    {
+        "i": "https://www.starwars.com/databank/inhibitor-chip"
+    },
+    {
+        "i": "https://www.starwars.com/databank/inquisitor-s-tie-advanced-prototype"
+    },
+    {
+        "i": "https://www.starwars.com/databank/inquisitorial-database"
+    },
+    {
+        "i": "https://www.starwars.com/databank/inspector-jen-june"
+    },
+    {
+        "i": "https://www.starwars.com/databank/instructor-goran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/intergalactic-banking-clan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/interrogation-chair"
+    },
+    {
+        "i": "https://www.starwars.com/databank/interrogation-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/invisible-hand"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ion-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ion-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ion-papanoida"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ion-restraining-bolt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ione-marcy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ipsidon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ipsidon-spaceport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ipsium"
+    },
+    {
+        "i": "https://www.starwars.com/databank/irlings"
+    },
+    {
+        "i": "https://www.starwars.com/databank/isa-durand"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ithorians"
+    },
+    {
+        "i": "https://www.starwars.com/databank/j-3di"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jabba-the-hutt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jabba-the-hutts-palace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jabiim"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jabiim-freight-transport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jabiim-hidden-path-safehouse"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jablogian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jace-rucklin"
+    },
+    {
+        "i": "https://www.starwars.com/jacen-syndulla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jade-squadron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jai-kell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jakku"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jakoli"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jakoosk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jalath"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jalindi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jalindi-station"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jan-dodonna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jango-fett"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jannah"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jannah-s-bow"
+    },
+    {
+        "i": "https://www.starwars.com/databank/janus-greejatus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jar-jar-binks"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jarek-yeager"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jashco-phurus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jawa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jax-sp-32"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jay-igno"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jaybo-hood"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jaycris-tubbs"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jaylen-vrax"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jecki-lon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedha"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-breathing-device"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-holocron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-mind-trick"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-order"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-t-6-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-temple"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-temple-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-texts"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jedi-youngling"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jek-lawquane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jek-porkins"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jemboc"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jennica-pierce"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jess-pava"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jet-venim"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jezzi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jinx"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jira"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jiro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jocasta-nu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/joh-yowza"
+    },
+    {
+        "i": "https://www.starwars.com/databank/johhar-kessen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jon-dutch-vander"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jonner-jin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/joopa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/joopa-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/juggernaut-transport-vehicle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jumpspeeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jumptrooper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jundland-wastes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/junker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/justifier"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jyn-erso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jyn-ersos-blastech-a-180-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/jyns-kyber-pendant"
+    },
+    {
+        "i": "https://www.starwars.com/databank/k-2so-kay-tuesso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/k-9x1"
+    },
+    {
+        "i": "https://www.starwars.com/databank/k0-5d"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kaadu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kachirho"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kada-jahr"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kadavo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kage-warriors"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kalifa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kalikori"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kaller"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kallidahin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kalo-ne"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kamino"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kamino-tube-system"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kaminoan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kamoradon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kanan-jarrus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kanans-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kanans-speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kanjiklub"
+    },
+    {
+        "i": "https://www.starwars.com/databank/karis-nemik"
+    },
+    {
+        "i": "https://www.starwars.com/databank/karnex-dragon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/karthon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kashyyyk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/katooni"
+    },
+    {
+        "i": "https://www.starwars.com/databank/katooni-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kawlan-roken"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kay-vess"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kaydel-connix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kaz-s-lucky-trophy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kaz-s-talisman"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kazuda-kaz-xiono"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kedpin-shoklop"
+    },
+    {
+        "i": "https://www.starwars.com/databank/keelboat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/keeper-agruss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/keeradak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/keeve-trennis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kef-bir"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kekit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kelleran-beq"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kelnacca"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kenari"
+    },
+    {
+        "i": "https://www.starwars.com/databank/keo-venzee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kerri"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kessel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kessel-control-center"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kessel-miners"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ketch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ketsu-onyo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ketsu-s-staff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ki-adi-mundi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kiera-swan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kijimi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kijimi-city"
+    },
+    {
+        "i": "https://www.starwars.com/databank/killun-71"
+    },
+    {
+        "i": "https://www.starwars.com/databank/killun-station"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kin-robb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kinash-lock"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kindalo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/king-katuunko"
+    },
+    {
+        "i": "https://www.starwars.com/databank/king-manchucho"
+    },
+    {
+        "i": "https://www.starwars.com/databank/king-ramsis-dendup"
+    },
+    {
+        "i": "https://www.starwars.com/databank/king-sanjay-rash"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kino-loy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kintan-strider-speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kintan-striders-gang"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kiros"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kit-fisto"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kitster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kitwarr"
+    },
+    {
+        "i": "https://www.starwars.com/databank/klaatu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/klatooinian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/klatooinian-raiders"
+    },
+    {
+        "i": "https://www.starwars.com/databank/klatooinian-wikiup"
+    },
+    {
+        "i": "https://www.starwars.com/databank/klaud"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kleya-marki"
+    },
+    {
+        "i": "https://www.starwars.com/databank/klik-klak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/knights-of-ren"
+    },
+    {
+        "i": "https://www.starwars.com/databank/koboh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kod-yok"
+    },
+    {
+        "i": "https://www.starwars.com/databank/korkie-kryze"
+    },
+    {
+        "i": "https://www.starwars.com/databank/korr-sella"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kouhun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kowakian-ape"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kowakian-monkey-lizard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kragan-gorr"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krakavora"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krayt-dragon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krennics-dt-29-heavy-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krennics-imperial-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krismo-sodi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krownest"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krrsantan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krrsantan-s-knuckle-dusters"
+    },
+    {
+        "i": "https://www.starwars.com/databank/krykna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kubaz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kuiil"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kuiil-s-ranch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kuruk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kuruk-s-blaster-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lightsaber-crystal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kylo-rens-command-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kylo-rens-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kylo-ren-s-modified-tie-whisper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/kyuzo-petars"
+    },
+    {
+        "i": "https://www.starwars.com/databank/l-1-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/l3-37"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lady-proxima"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lagos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lah-mu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lama-su"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lando-calrissian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lando-s-prod-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lanse-crowder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lark-and-jonk-a-k-a-the-twins"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lars-moisture-farm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lasan-honor-guard-ab-75-bo-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lasat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/laser-ax"
+    },
+    {
+        "i": "https://www.starwars.com/databank/last-chance"
+    },
+    {
+        "i": "https://www.starwars.com/databank/latts-razzi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lau"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lava-meerkat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/le-12"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lechee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/leech-vessel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/leia-organa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/leida-mothma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lens-kamo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/leox-gyasi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/leoz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/letta-turmond"
+    },
+    {
+        "i": "https://www.starwars.com/databank/level-1313"
+    },
+    {
+        "i": "https://www.starwars.com/databank/liana-kor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-bolandin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-callahan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-dicer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-galek"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-hilo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-mitaka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lieutenant-mytus-adema"
+    },
+    {
+        "i": "https://www.starwars.com/databank/life-day"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lightsaber-pike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lindon-javes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lira-san"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lm-432-muckraker-crab-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lobot"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lobot-tech-headgear"
+    },
+    {
+        "i": "https://www.starwars.com/databank/loden-greatstorm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/logray"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lok-durd"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lola-l0-la59"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lola-sayu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lolo-purs"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lom_pyke"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lor-san-tekka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lord-corvax-s-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lortha-peel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/loth-bat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/loth-bat-glider"
+    },
+    {
+        "i": "https://www.starwars.com/databank/loth-cat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/loth-wolf"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-capital-city"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-depot"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-fuel-depot"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-hospital"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-imperial-airfield"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-imperial-factory"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-jedi-temple"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-old-republic-senate-building"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lothal-transmitter-tower"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lotho-minor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lott-dod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lourna-dee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lovey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lt-514"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lt-gauge"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lt-gorn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lt-holmes"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lt-nolan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/luggabeast"
+    },
+    {
+        "i": "https://www.starwars.com/databank/luke-skywalker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/luke-skywalkers-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lula"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lula-talisola"
+    },
+    {
+        "i": "https://www.starwars.com/databank/luminara-unduli"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lurca-hound"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lurmen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/luthen-rael"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lux-bonteri"
+    },
+    {
+        "i": "https://www.starwars.com/databank/luxury-3000-space-yacht"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lyana"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lyn-me"
+    },
+    {
+        "i": "https://www.starwars.com/databank/lyra-erso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/m5-bz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/maarva-andor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mace-windu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mace-windus-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mae"
+    },
+    {
+        "i": "https://www.starwars.com/databank/magaloof"
+    },
+    {
+        "i": "https://www.starwars.com/databank/magnaguard-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/magna-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/magnetic-climbers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/magno-mine"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-brance"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-bren-derlin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-capin-harinar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-partagaz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-rigosso"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-vonreg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/major-vonregs-tie-interceptor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mak-plain"
+    },
+    {
+        "i": "https://www.starwars.com/databank/malachor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/malachor-sith-temple"
+    },
+    {
+        "i": "https://www.starwars.com/databank/malakili"
+    },
+    {
+        "i": "https://www.starwars.com/databank/malastare"
+    },
+    {
+        "i": "https://www.starwars.com/databank/maldo-kreis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/malevolence"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mandalore"
+    },
+    {
+        "i": "https://www.starwars.com/databank/the-gauntlet"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mandalorian-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mandalorian-super-commando"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mandalorian-vambraces"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mandalorian-vault"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mando-s-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mantu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mapuzo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mapuzo-safehouse"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mar-tuuk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marauder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marchion-ro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marcus-speedstar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marg-krim"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marrok-creature"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marrok-inquisitor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/marrok-s-fiend-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mart-mattin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mas-amedda"
+    },
+    {
+        "i": "https://www.starwars.com/databank/master-codebreaker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/darth-maul"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mawhonic"
+    },
+    {
+        "i": "https://www.starwars.com/databank/max-rebo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mayor-mok-shaiz"
+    },
+    {
+        "i": "https://www.starwars.com/databank/maz-kanata"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mazs-castle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/maz-s-curio-box"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mb-13"
+    },
+    {
+        "i": "https://www.starwars.com/databank/me-8d9"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mechno-arms"
+    },
+    {
+        "i": "https://www.starwars.com/databank/medal-of-yavin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/medical-capsules"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mee-deechi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/meena-tills"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/melch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/merchant-one"
+    },
+    {
+        "i": "https://www.starwars.com/databank/meson-martinet"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mich-matt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/midwife-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mayfeld"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mika-grey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mikkian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/millennium-falcon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/millicreep-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mimban"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mimbanese"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mina-bonteri"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mining-guild"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mining-guild-excavation-driller"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mining-guild-security-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mining-guild-tie-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/minister-maketh-tua"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mira-bridger"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mirialan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mirro-lox"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mister-borkus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mobile-command-center"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mobile-tac-pod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/modified-at-te-walker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/modified-mk-sniper-rifle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moff-gideon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moff-jerjerrod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moisture-vaporator"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mokko"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mokkotown"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moloch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moloch-s-staff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/momaw-nadon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mon-cala"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mon-calamari"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mon-calamari-star-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mon-mothma"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moonyo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moraband"
+    },
+    {
+        "i": "https://www.starwars.com/databank/morad-sumar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/morai"
+    },
+    {
+        "i": "https://www.starwars.com/databank/morak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moralo-eval"
+    },
+    {
+        "i": "https://www.starwars.com/databank/morgan-elsbeth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/morlana-one"
+    },
+    {
+        "i": "https://www.starwars.com/databank/morley"
+    },
+    {
+        "i": "https://www.starwars.com/databank/moroff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mortis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-eisley-cantina"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-eisley-mod-parlor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-eisley-spaceport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-espa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-espa-city-hall"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-espa-grand-arena"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mos-espa-worker-s-district"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mother-aniseya"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mother-talzin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mount-tantiss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mouse-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mox"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mtt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mubo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/muchi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mudhorn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mudtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/murley"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mustafar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mygeeto"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mykapo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mylayas"
+    },
+    {
+        "i": "https://www.starwars.com/databank/myn-weaver"
+    },
+    {
+        "i": "https://www.starwars.com/databank/mynock"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naboo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naboo-n-1-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naboo-royal-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naboo-royal-guards"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naboo-royal-handmaidens"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naboo-royal-starship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nail"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nal-hutta"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nala-se"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nala-se-s-private-lab"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nala-se-s-datapad"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nambi-ghima"
+    },
+    {
+        "i": "https://www.starwars.com/databank/namua"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nanny-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naraka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/narglatch"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nari"
+    },
+    {
+        "i": "https://www.starwars.com/databank/narkina-5"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nautolan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/naval-intelligence-headquarters"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nd-5"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nebulon-b-frigate"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ned-b"
+    },
+    {
+        "i": "https://www.starwars.com/databank/neeku-vozo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/neepers-panpick"
+    },
+    {
+        "i": "https://www.starwars.com/databank/neeva"
+    },
+    {
+        "i": "https://www.starwars.com/databank/neimoidian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/neimoidian-escort-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nemik-s-manifesto"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nena"
+    },
+    {
+        "i": "https://www.starwars.com/databank/netcasters"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nevarro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nevarro-bazaar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nevarro-reptavian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/new-republic-e-wings"
+    },
+    {
+        "i": "https://www.starwars.com/databank/new-republic-prison-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/new-republic-x-wings"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nexu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nhego-roolan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/niamos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nien-nunb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/night-buzzard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/night-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightbrothers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightsister-crystal-ball"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightsister-merrin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightsister-zombies"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightsisters"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightsisters-temple-on-arcana"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nightwatcher-worm"
+    },
+    {
+        "i": "https://www.starwars.com/databank/niima-outpost"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nikto-green"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nikto-red"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nils-tenant"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ninth-sister"
+    },
+    {
+        "i": "https://www.starwars.com/databank/niv-drendow-apruk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nix-card"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nix-jerd"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nixus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/noghri"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nooa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/norath"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nossor-ri"
+    },
+    {
+        "i": "https://www.starwars.com/databank/noti"
+    },
+    {
+        "i": "https://www.starwars.com/databank/noti-s-pod-mobile-houses"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nr-n99-persuader-class-tank-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/numa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/numidian-prime"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nuna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nur"
+    },
+    {
+        "i": "https://www.starwars.com/databank/nute-gunray"
+    },
+    {
+        "i": "https://www.starwars.com/databank/o-mer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oba-diah"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oba-diah-s-moon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/obi-wan-kenobi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/obi-wan-kenobis-lightsabers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/obi-wan-s-house"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ochi-of-bestoon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/octuptarra-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ody-mandrell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/office-of-acquisitions"
+    },
+    {
+        "i": "https://www.starwars.com/databank/officer-sharest"
+    },
+    {
+        "i": "https://www.starwars.com/databank/offworld-jawas"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oga-garra"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oga-s-cantina"
+    },
+    {
+        "i": "https://www.starwars.com/databank/okalin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/old-daka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/old-jho"
+    },
+    {
+        "i": "https://www.starwars.com/databank/old-jhos-pit-stop"
+    },
+    {
+        "i": "https://www.starwars.com/databank/old-ord-mantell-city"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oleg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oma-tres"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omega"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omega-s-compass"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omega-s-energy-crossbow"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omega-s-kaleidoscope"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omega-s-room"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omega-s-room-mount-tantiss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/omera"
+    },
+    {
+        "i": "https://www.starwars.com/databank/onaconda-farr"
+    },
+    {
+        "i": "https://www.starwars.com/databank/onca"
+    },
+    {
+        "i": "https://www.starwars.com/databank/onderon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/onderon-rebels"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oniho-zaya"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oola"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oora"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oosalon-mesa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/opee-sea-killer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/opeepit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oplock"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oppo-rancisis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orbital-bombardment-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ord-mantell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/order-of-the-night-wind"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ordnance-launcher"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ordo-moon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ordo-moon-dragon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ore-crawler"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orla-jareni"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orn-free-taa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orn-free-taa-s-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orphne"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orray"
+    },
+    {
+        "i": "https://www.starwars.com/databank/orto-plutonia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oruba-the-hutt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/osi-sobeck"
+    },
+    {
+        "i": "https://www.starwars.com/databank/otoh-gunga"
+    },
+    {
+        "i": "https://www.starwars.com/databank/otomok-medallion"
+    },
+    {
+        "i": "https://www.starwars.com/databank/otua-blank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/outer-rim-speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/owen-lars"
+    },
+    {
+        "i": "https://www.starwars.com/databank/oxygen-mask"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pablo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pabu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pabu-archium"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pabu-cove"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pabu-skiff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/padme-amidala"
+    },
+    {
+        "i": "https://www.starwars.com/databank/padmes-apartment"
+    },
+    {
+        "i": "https://www.starwars.com/databank/paige-tico"
+    },
+    {
+        "i": "https://www.starwars.com/databank/palliduvan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/palpatines-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pammich-nerro-goode"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pantora"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pantoran"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pao"
+    },
+    {
+        "i": "https://www.starwars.com/databank/paploo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/parvinoth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pasaana"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pasaana-loader-skimmer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pasaana-transport-skimmer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/passel-argente"
+    },
+    {
+        "i": "https://www.starwars.com/databank/patitite"
+    },
+    {
+        "i": "https://www.starwars.com/databank/patrol-transport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/imperial-patrol-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/patrolian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pauan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/paz-vizsla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pegla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peli-motto"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peli-motto-s-hangar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peli-motto-s-pit-droids"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peli-motto-s-r5-d4"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pemmin-brunce"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pendra-siliu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peppi-bow"
+    },
+    {
+        "i": "https://www.starwars.com/databank/percussive-cannon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peridea"
+    },
+    {
+        "i": "https://www.starwars.com/databank/perrin-fertha"
+    },
+    {
+        "i": "https://www.starwars.com/databank/peteen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/petro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/petty-officer-thanisson"
+    },
+    {
+        "i": "https://www.starwars.com/databank/phantom-ii"
+    },
+    {
+        "i": "https://www.starwars.com/databank/phase-connector"
+    },
+    {
+        "i": "https://www.starwars.com/databank/phee-genoa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/phoenix"
+    },
+    {
+        "i": "https://www.starwars.com/databank/phoenix-home-rebel-capital-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/phoenix-squadron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pillio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pintu"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pip"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pirate-saucer-mothership"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pirate-speeder-tank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pit-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/plo-koon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pluma-sodi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/po-nudo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/podracer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/poe-dameron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/poe-dameron-s-x-wing-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/poggle-the-lesser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/polan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/poletec"
+    },
+    {
+        "i": "https://www.starwars.com/databank/police-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/police-glow-rod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/polis-massa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ponda-baba"
+    },
+    {
+        "i": "https://www.starwars.com/databank/porg"
+    },
+    {
+        "i": "https://www.starwars.com/databank/power-generator"
+    },
+    {
+        "i": "https://www.starwars.com/databank/prashee-and-cratinus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/praster-ommlen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/prauf"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pre-vizsla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/preigo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/priestess"
+    },
+    {
+        "i": "https://www.starwars.com/databank/prime-minister-almec"
+    },
+    {
+        "i": "https://www.starwars.com/databank/prince-lee-char"
+    },
+    {
+        "i": "https://www.starwars.com/databank/professor-huyang"
+    },
+    {
+        "i": "https://www.starwars.com/databank/protocol-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/proton-bomb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/proton-torpedo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/providence"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pru-sweevant"
+    },
+    {
+        "i": "https://www.starwars.com/databank/puffer-pig"
+    },
+    {
+        "i": "https://www.starwars.com/databank/puffer-pig-bacon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/purge-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/purkoll-tower-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/purrgil"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-boss"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-guards"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-sentinels"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-stronghold"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-syndicate"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pyke-torture-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pypey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/pz-4co-peazy-fourseeo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/zero"
+    },
+    {
+        "i": "https://www.starwars.com/databank/qi-ra"
+    },
+    {
+        "i": "https://www.starwars.com/databank/qimir"
+    },
+    {
+        "i": "https://www.starwars.com/databank/qin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/qt-kt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quadjumper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quarren"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quarrie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quarzite"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quasar-fire-class-cruiser-carrier"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quay-tolsite"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-apailana"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-breha-organa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-jamillia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-julia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-karina-the-great"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-miraj-scintel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/queen-neeyutnee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/qui-gon-jinn"
+    },
+    {
+        "i": "https://www.starwars.com/databank/qui-gons-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quiggold"
+    },
+    {
+        "i": "https://www.starwars.com/databank/quinlan-vos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r2-bhd-tooby"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r2-d2"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r23-x9"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r3-a3"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r3-s1"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r3-s6"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r4-d12"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r4-g77"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r4-p17"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r5-d4"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r5-g9"
+    },
+    {
+        "i": "https://www.starwars.com/databank/r7-a7"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rae-sloane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rafa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rafa-s-laundry"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rake-gahree"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rako-hardeen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ram-jomaram"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rancor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rancor-keeper"
+    },
+    {
+        "i": "https://www.starwars.com/databank/raney"
+    },
+    {
+        "i": "https://www.starwars.com/databank/range-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ranzar-ran-malk"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rappertunie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/raspar-six"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rathtar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ration-packs"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ratts-tyerell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/raven-s-peak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/raven-s-peak-sky-rail"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ravinak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/raxus"
+    },
+    {
+        "i": "https://www.starwars.com/databank/raydonia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/razoo-qin-fee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/razor-crest"
+    },
+    {
+        "i": "https://www.starwars.com/databank/razor-crest-s-arsenal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/reath-silas"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebel-alliance"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebel-insignia-ring"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebel-pathfinders-specforces"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebel-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebel-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebellion-outpost-on-aeos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebolt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rebolt-s-staff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/red-ace"
+    },
+    {
+        "i": "https://www.starwars.com/databank/reek"
+    },
+    {
+        "i": "https://www.starwars.com/databank/reklam-station"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rella-sol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/republic-attack-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/republic-attack-gunship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/republic-attack-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/republic-cruiser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/republic-frigate"
+    },
+    {
+        "i": "https://www.starwars.com/databank/republic-tugboat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-bomber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-intersystem-transport-ship-i-ts"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-pilots"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-ski-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-transport"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-transport-pod"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-x-wing"
+    },
+    {
+        "i": "https://www.starwars.com/databank/resistance-y-wing-starfighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/restraining-bolt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/retail-caucus-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/reva-third-sister"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rey"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rey-s-blaster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rey-s-home"
+    },
+    {
+        "i": "https://www.starwars.com/databank/reys-quarterstaff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/reys-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rgc-landspeeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rho-class-transport-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rhydonium"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ric-olie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ric-series-general-labor-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rieve"
+    },
+    {
+        "i": "https://www.starwars.com/databank/riff-tamson"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rig-nema"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ringo-vinda"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rio-durant"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rish-loo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rishi-station"
+    },
+    {
+        "i": "https://www.starwars.com/databank/riyo-chuchi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/robonino"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rodia"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rodian"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rokkna"
+    },
+    {
+        "i": "https://www.starwars.com/databank/roland-durand"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rolt"
+    },
+    {
+        "i": "https://www.starwars.com/databank/romar-adell"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rono-freighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ronto"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rose-tico"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rotta-the-huttlet"
+    },
+    {
+        "i": "https://www.starwars.com/databank/royal-palace-of-alderaan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rps-6-rocket-launcher"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rskf-44-heavy-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ruby"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rucklin-s-racer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ruescott-melshi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rugosa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rukh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rumi-paramita"
+    },
+    {
+        "i": "https://www.starwars.com/databank/runai-sculdun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rune-haako"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ruping"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rush-clovis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/russo-isc"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rx-24-pilot-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ryder-azadi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/ryloth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/rystall-sant"
+    },
+    {
+        "i": "https://www.starwars.com/databank/s-195-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sabacc"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sabine-wren"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sabine-s-speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sabine-s-holo-projector"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sabine-s-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sabe"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sacred-stones"
+    },
+    {
+        "i": "https://www.starwars.com/databank/saesee-tiin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sagwa"
+    },
+    {
+        "i": "https://www.starwars.com/databank/salacious-crumb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/saleucami"
+    },
+    {
+        "i": "https://www.starwars.com/databank/salman-paak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sami"
+    },
+    {
+        "i": "https://www.starwars.com/databank/san-hill"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sana-starros"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sandcrawler"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sando-aqua-monster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sandtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/santhe-shipyards"
+    },
+    {
+        "i": "https://www.starwars.com/databank/saponza"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sarco-plank"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sarlacc"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sarlacc-pit"
+    },
+    {
+        "i": "https://www.starwars.com/databank/satos-hammer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/saurin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/savage-opress"
+    },
+    {
+        "i": "https://www.starwars.com/databank/savareen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/savareen-refinery"
+    },
+    {
+        "i": "https://www.starwars.com/databank/saw-gerrera"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sc-x2"
+    },
+    {
+        "i": "https://www.starwars.com/databank/scarif"
+    },
+    {
+        "i": "https://www.starwars.com/databank/scipio"
+    },
+    {
+        "i": "https://www.starwars.com/databank/scout-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/scrumrats"
+    },
+    {
+        "i": "https://www.starwars.com/databank/scurrier"
+    },
+    {
+        "i": "https://www.starwars.com/databank/scythe"
+    },
+    {
+        "i": "https://www.starwars.com/databank/se-14-blaster-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/se-2-essie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/se8-waiter-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sea-skiff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/seatos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sebulba"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sebulbas-podracer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/second-sister"
+    },
+    {
+        "i": "https://www.starwars.com/databank/seelos"
+    },
+    {
+        "i": "https://www.starwars.com/databank/seevor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/seezelslak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/seismic-charge"
+    },
+    {
+        "i": "https://www.starwars.com/databank/self-propelled-heavy-artillery-turbolaser-spha-t"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senate-district"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senate-guard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senator-avi-singh"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senator-gani-riduli"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senator-nower-jebel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senator-tynnra-pamlo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/senator-vasp-vaspar"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sentinel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/separatist-assassin-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/separatist-council"
+    },
+    {
+        "i": "https://www.starwars.com/databank/separatist-dreadnought"
+    },
+    {
+        "i": "https://www.starwars.com/databank/separatist-encryption-module"
+    },
+    {
+        "i": "https://www.starwars.com/databank/separatist-supply-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/serenno"
+    },
+    {
+        "i": "https://www.starwars.com/databank/service-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/setron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/seventh-sister-inquisitor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shaak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shaak-ti"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shadow-caster"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shadow-collective"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shaeeah-lawquane"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shahan-alama"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shantipole"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sheathipede-class-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shen"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shep-hazard"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shield-generators"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shin-hati"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shin-hati-s-fiend-fighter"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shmi-skywalker-lars"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shoretroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shriv"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shu-mai"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shydopp-pirate"
+    },
+    {
+        "i": "https://www.starwars.com/databank/shydopp-pirate-skiff"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sib-canay"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sidon-ithano"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sienar-fleet-systems"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sifo-dyas"
+    },
+    {
+        "i": "https://www.starwars.com/databank/silla"
+    },
+    {
+        "i": "https://www.starwars.com/databank/silman"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sim-aloo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/simulator-pods"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sinrich"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sinrich-optical-dephaser"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sinta-glacier-colony"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sio-bibble"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sionver-boll"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-citadel"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-eternal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-holocron"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-infiltrator"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-jet-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-probe-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-relic"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-speeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-star-destroyer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-troopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sith-wayfinder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sixtat"
+    },
+    {
+        "i": "https://www.starwars.com/databank/skako-minor"
+    },
+    {
+        "i": "https://www.starwars.com/databank/skara-nal"
+    },
+    {
+        "i": "https://www.starwars.com/databank/skystrike-academy"
+    },
+    {
+        "i": "https://www.starwars.com/databank/anakin-luke-and-reys-lightsaber"
+    },
+    {
+        "i": "https://www.starwars.com/databank/boba-fetts-starship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/slavin"
+    },
+    {
+        "i": "https://www.starwars.com/databank/slingshot"
+    },
+    {
+        "i": "https://www.starwars.com/databank/slip"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sliro"
+    },
+    {
+        "i": "https://www.starwars.com/databank/slither-vines"
+    },
+    {
+        "i": "https://www.starwars.com/databank/slowen-lo"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sly-moore"
+    },
+    {
+        "i": "https://www.starwars.com/databank/smelter-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/smoke-bomb"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snap-wexley"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snarl"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snarlfish"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sniper-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snokes-throne-room"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snowspeeder"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snowtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/snubble-pistol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sol"
+    },
+    {
+        "i": "https://www.starwars.com/databank/solar-sailer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/son"
+    },
+    {
+        "i": "https://www.starwars.com/databank/soniee"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sonsigo-and-munduri"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sorgan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sorgan-common-house"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sorgan-krill"
+    },
+    {
+        "i": "https://www.starwars.com/databank/soulless-one"
+    },
+    {
+        "i": "https://www.starwars.com/databank/space-slug"
+    },
+    {
+        "i": "https://www.starwars.com/databank/speagull"
+    },
+    {
+        "i": "https://www.starwars.com/databank/speeder-bike"
+    },
+    {
+        "i": "https://www.starwars.com/databank/spice"
+    },
+    {
+        "i": "https://www.starwars.com/databank/spy-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sskeer"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stak"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stap"
+    },
+    {
+        "i": "https://www.starwars.com/databank/star-commuter-shuttle"
+    },
+    {
+        "i": "https://www.starwars.com/databank/star-navigator-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/starkiller-base"
+    },
+    {
+        "i": "https://www.starwars.com/databank/starlight-beacon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stass-allie"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stealth-ship"
+    },
+    {
+        "i": "https://www.starwars.com/databank/steela-gerrera"
+    },
+    {
+        "i": "https://www.starwars.com/databank/steelpecker"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stekan-sculdun"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stellan-gios"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stinger-mantis"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stomeroni-starck"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stormtroopers"
+    },
+    {
+        "i": "https://www.starwars.com/databank/straw-tooka"
+    },
+    {
+        "i": "https://www.starwars.com/databank/strono-cookie-tuggs"
+    },
+    {
+        "i": "https://www.starwars.com/databank/stygeon-prime"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sub-loop-spanner"
+    },
+    {
+        "i": "https://www.starwars.com/databank/subtram"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sudswater-dillifay-glon"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sugi"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sugi-species"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sullustan"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sully-stark"
+    },
+    {
+        "i": "https://www.starwars.com/databank/summa-verminoth"
+    },
+    {
+        "i": "https://www.starwars.com/databank/sundari"
+    },
+    {
+        "i": "https://www.starwars.com/databank/super-battle-droid"
+    },
+    {
+        "i": "https://www.starwars.com/databank/super-battle-droid-rocket-trooper"
+    }
+]
